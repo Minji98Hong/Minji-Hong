@@ -13,8 +13,8 @@ Its hardware products are licensed under a CC-BY-SA license, while software is l
 
 
 
-! <img width="611" alt="스크린샷 2021-11-28 오후 10 45 14" src="https://user-images.githubusercontent.com/94998112/143789296-65452186-d860-4c6a-80c4-f305c1847727.png">
+<img width="611" alt="스크린샷 2021-11-28 오후 10 45 14" src="https://user-images.githubusercontent.com/94998112/143789296-65452186-d860-4c6a-80c4-f305c1847727.png">
 
 
-! https://user-images.githubusercontent.com/94998112/143789351-9f70fcc8-fc2b-4e3d-a91b-43bda58882a3.MOV
+
 
