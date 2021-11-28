@@ -1,2 +1,1 @@
-# Minji-Hong
-###### Minji Hong
+# What is Physical Computing?
